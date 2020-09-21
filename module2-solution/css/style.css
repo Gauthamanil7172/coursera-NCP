@@ -67,6 +67,7 @@ p.cont {
 	margin: 2px;
   	font-family: Helvetica;
   	color: white;
+  	padding: 5px;
 }
 /* Simple Responsive Framework. */
 .row {
